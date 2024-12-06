@@ -4,7 +4,7 @@ This project went through VLSI design flow, from RTL->Synthesis->Layout->GDSII<b
 Several things are done in this project, including<br />
 Modelsim verification<br />
 Synthesis<br />
-Modelsim after synthesis<br />
+Modelsim after synthesis(met some latches problems)<br />
 Layout with IO pads<br />
 DRC/LVS pass<br />
 Create sealring, poly fill layer and metal fill layer.<br />
